@@ -9,7 +9,7 @@ public class Receptor {
 
   public static void main(String[] argv) throws Exception {
     ConnectionFactory factory = new ConnectionFactory();
-    factory.setHost("3.94.170.14"); // Alterar
+    factory.setHost("54.173.217.54"); // Alterar
     factory.setUsername("ayrton-fh"); // Alterar
     factory.setPassword("notrabbitadmin"); // Alterar
     factory.setVirtualHost("/");   
